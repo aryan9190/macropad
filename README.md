@@ -1,5 +1,5 @@
 # MacroPad
-A cool macropad
+ This is a 8-key macropad with a rotary encoder, OLED! It's meant to showcase all the different parts in a small, polished project
 
 ## PCB
 <img width="993" height="534" alt="Screenshot 2025-07-24 9 33 41 PM" src="https://github.com/user-attachments/assets/24021216-861c-4cf2-81e2-dd5bfbf4f24d" />
